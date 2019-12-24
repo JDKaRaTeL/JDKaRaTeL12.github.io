@@ -1,0 +1,67 @@
+body{
+	background:linear-gradient(to right,#EEB92A,#EE2A2A,#28A8E3,#28A8E3,#EE2A2A,#EEB92A);
+}
+.name{
+	transition-duration:1s;
+	text-align:center;
+	color:black;
+}
+.name:hover{
+	color:#5c3e3c;
+	font-size:50px;
+}
+img{
+	height:100px;
+	width:200px;
+}
+p{
+	font-family:solid;
+}
+.gif{
+	float:right;
+	height:150px;
+	width:200px;
+}
+.video{
+	height:200px;
+	width:400px;
+}
+th{
+	border:1px solid;
+}
+td{
+	border:1px solid;
+}
+.zakaz{
+	transition-duration:0.1s;
+}
+.zakaz:hover{
+	background-color:purple;
+}
+.zakaz:active{
+	background-color:red;
+}
+nav{
+	background-color:black;
+	width:100%;
+	height:100px;
+}
+a{
+	color:white;
+	position:absolute;
+	top:45px;
+	font-size:35px;
+	text-decoration:none;
+}
+.knop1{
+	left:10%;
+}
+.knop2{
+	left:30%;
+}
+.knop3{
+	left:55%;
+}
+.knop4{
+	left:75%;
+}
